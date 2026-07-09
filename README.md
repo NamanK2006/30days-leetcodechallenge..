@@ -9,3 +9,15 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 - ✅ Track my progress publicly on GitHub.
 
 > Note: Some early solutions may use brute-force approaches. As I learn more DSA patterns, I'll revisit these problems and update them with optimized solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0136-single-number) |
+<!---LeetCode Topics End-->
