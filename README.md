@@ -3,7 +3,7 @@
 This repository documents my 30-day journey of solving LeetCode problems consistently to strengthen my Data Structures & Algorithms skills.
 
 ### Goals
-- ✅ Solve one problem every day.
+- ✅ Solve  problem every day.
 - ✅ Build strong problem-solving skills.
 - ✅ Learn optimal approaches and common DSA patterns.
 - ✅ Track my progress publicly on GitHub.
