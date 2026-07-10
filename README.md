@@ -17,6 +17,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0136-single-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0136-single-number) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,4 +26,5 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
