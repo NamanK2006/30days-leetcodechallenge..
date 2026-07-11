@@ -34,6 +34,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
+| [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
