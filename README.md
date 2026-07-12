@@ -17,6 +17,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
@@ -35,12 +36,14 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
