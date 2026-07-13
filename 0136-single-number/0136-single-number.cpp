@@ -1,10 +1,18 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans=0;
-        for(auto x :nums ){
-            ans= ans^x;
+        unordered_map<int, int> m;
+
+        for (auto x : nums) {
+            m[x]++;
         }
-        return ans;
+
+        for (auto x : m) {
+            if (x.second == 1) {
+                return x.first;
+            }
+        }
+
+        return -1;
     }
 };
