@@ -70,4 +70,17 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
