@@ -19,6 +19,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -38,6 +39,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 ## Sorting
 |  |
@@ -63,4 +65,8 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
