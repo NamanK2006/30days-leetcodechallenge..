@@ -23,6 +23,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0136-single-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
@@ -54,6 +55,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -99,4 +101,16 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
