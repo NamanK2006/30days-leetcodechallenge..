@@ -62,6 +62,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0125-valid-palindrome](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -114,4 +115,8 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
