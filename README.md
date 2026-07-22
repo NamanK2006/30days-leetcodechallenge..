@@ -49,6 +49,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0125-valid-palindrome) |
@@ -65,6 +66,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0541-reverse-string-ii) |
@@ -125,5 +127,6 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
