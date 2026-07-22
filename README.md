@@ -18,6 +18,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
