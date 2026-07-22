@@ -31,6 +31,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
@@ -111,6 +112,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -132,4 +134,8 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
