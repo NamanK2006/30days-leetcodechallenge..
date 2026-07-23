@@ -34,6 +34,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3701-compute-alternating-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0054-spiral-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3701-compute-alternating-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
