@@ -91,6 +91,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
@@ -142,4 +143,8 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
