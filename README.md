@@ -73,6 +73,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
@@ -86,6 +87,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1544-make-the-string-great) |
