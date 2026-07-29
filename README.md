@@ -61,6 +61,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -78,12 +79,14 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -91,6 +94,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3701-compute-alternating-sum) |
