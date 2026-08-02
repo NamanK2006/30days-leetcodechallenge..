@@ -111,11 +111,13 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
