@@ -38,6 +38,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1929-concatenation-of-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3701-compute-alternating-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
@@ -75,6 +76,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0414-third-maximum-number) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
 |  |
 | ------- |
