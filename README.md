@@ -15,6 +15,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
@@ -58,6 +59,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -180,6 +182,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0334-increasing-triplet-subsequence) |
 ## Longest Increasing Subsequence
 |  |
