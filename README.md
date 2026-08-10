@@ -29,6 +29,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0260-single-number-iii) |
+| [0334-increasing-triplet-subsequence](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0485-max-consecutive-ones) |
@@ -173,4 +174,12 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
