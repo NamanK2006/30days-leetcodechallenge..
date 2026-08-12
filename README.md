@@ -20,6 +20,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
@@ -132,6 +134,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
