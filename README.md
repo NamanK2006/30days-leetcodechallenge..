@@ -37,6 +37,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0496-next-greater-element-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
@@ -105,6 +106,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -201,4 +203,5 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
