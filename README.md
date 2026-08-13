@@ -42,6 +42,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2149-rearrange-array-elements-by-sign) |
@@ -112,6 +113,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -207,4 +209,5 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
