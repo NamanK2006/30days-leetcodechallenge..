@@ -20,6 +20,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +72,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0125-valid-palindrome) |
@@ -110,6 +112,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0503-next-greater-element-ii) |
@@ -147,6 +150,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -211,6 +215,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0503-next-greater-element-ii) |
