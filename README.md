@@ -44,6 +44,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0682-baseball-game](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -143,6 +144,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0278-first-bad-version](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -228,4 +230,8 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0084-largest-rectangle-in-histogram) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
