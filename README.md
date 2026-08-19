@@ -19,6 +19,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0011-container-with-most-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
@@ -73,6 +74,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0011-container-with-most-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
