@@ -15,6 +15,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0018-4sum) |
@@ -169,6 +170,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0442-find-all-duplicates-in-an-array) |
