@@ -49,6 +49,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
@@ -186,6 +187,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 ## Prefix Sum
 |  |
@@ -251,4 +253,5 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
