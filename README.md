@@ -48,6 +48,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -85,6 +86,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
 |  |
