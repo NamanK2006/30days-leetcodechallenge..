@@ -1,29 +1,18 @@
 class Solution {
 public:
     int maxPower(string s) {
-        int low = 0, high = 0;
-        int res = 0;
+    int res = 1;
+    int count = 1;
 
-        unordered_map<char, int> f;
+    for (int i = 1; i < s.size(); i++) {
+        if (s[i] == s[i - 1])
+            count++;
+        else
+            count = 1;
 
-        for (high = 0; high < s.size(); high++) {
+        res = max(res, count);
+    }
 
-            f[s[high]]++;
-
-            while (f.size() > 1) {
-
-                f[s[low]]--;
-
-                if (f[s[low]] == 0) {
-                    f.erase(s[low]);
-                }
-
-                low++;
-            }
-
-            res = max(res, high - low + 1);
-        }
-
-        return res;
+    return res;
     }
 };
