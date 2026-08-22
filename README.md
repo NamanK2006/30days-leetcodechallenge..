@@ -121,6 +121,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1446-consecutive-characters](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1446-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
