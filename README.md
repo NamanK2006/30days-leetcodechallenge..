@@ -53,6 +53,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -161,6 +162,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +202,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,4 +265,5 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0209-minimum-size-subarray-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
