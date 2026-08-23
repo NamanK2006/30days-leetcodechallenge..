@@ -128,6 +128,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [1544-make-the-string-great](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -272,4 +274,5 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
