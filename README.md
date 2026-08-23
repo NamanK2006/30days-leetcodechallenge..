@@ -55,6 +55,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0941-valid-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -273,6 +274,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0643-maximum-average-subarray-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
