@@ -91,6 +91,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0088-merge-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0541-reverse-string-ii) |
@@ -196,6 +197,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0442-find-all-duplicates-in-an-array) |
@@ -283,8 +285,10 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
