@@ -96,6 +96,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -286,6 +287,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
