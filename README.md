@@ -25,6 +25,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0035-search-insert-position](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0075-sort-colors) |
@@ -183,6 +184,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -220,6 +222,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
