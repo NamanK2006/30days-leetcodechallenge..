@@ -60,6 +60,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -187,6 +188,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0053-maximum-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
