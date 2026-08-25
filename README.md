@@ -93,6 +93,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0844-backspace-string-compare) |
@@ -175,6 +176,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0048-rotate-image](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -199,6 +201,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0073-set-matrix-zeroes](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0442-find-all-duplicates-in-an-array) |
@@ -293,4 +296,5 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
