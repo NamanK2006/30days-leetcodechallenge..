@@ -49,6 +49,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0643-maximum-average-subarray-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
@@ -224,6 +225,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
