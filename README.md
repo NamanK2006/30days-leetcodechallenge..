@@ -49,6 +49,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0643-maximum-average-subarray-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0766-toeplitz-matrix) |
@@ -175,6 +176,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0278-first-bad-version](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/1004-max-consecutive-ones-iii) |
 ## Math
