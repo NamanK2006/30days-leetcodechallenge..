@@ -46,6 +46,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0503-next-greater-element-ii](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0682-baseball-game) |
@@ -118,6 +119,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0242-valid-anagram](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0977-squares-of-a-sorted-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
@@ -187,6 +189,7 @@ This repository documents my 30-day journey of solving LeetCode problems consist
 | [0202-happy-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanK2006/30days-leetcodechallenge../tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
